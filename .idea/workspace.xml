@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="image-transformer" targetName="image-matcher" />
+      <config projectName="image-transformer" targetName="image-transformer" />
+      <config projectName="image-transformer" targetName="check" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5c5d35d-5750-4958-bc45-47557b97069c" name="Changes" comment="Review End">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.4" />
+  </component>
+  <component name="ProjectId" id="2Hm0LjE2il0PYmTcbLm44HAD7rF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "ctest.advertisement.all.test.configuration.is.created": "true",
+    "last_opened_file_path": "C:/Users/pomat/CLionProjects/assignment-3-image-rotation",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pomat\CLionProjects\assignment-3-image-rotation\solution\include" />
+      <recent name="C:\Users\pomat\CLionProjects\sem6\assignment-3-image-rotation\tester\include" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CTest Application.All CTest">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="image-transformer" TARGET_NAME="check" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="image-matcher" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="image-transformer" TARGET_NAME="image-matcher" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="image-transformer" RUN_TARGET_NAME="image-matcher">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="image-transformer" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="C:\Users\pomat\CLionProjects\sem6\assignment-3-image-rotation\input.bmp C:\Users\pomat\CLionProjects\sem6\assignment-3-image-rotation\output.bmp" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="image-transformer" TARGET_NAME="image-transformer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="image-transformer" RUN_TARGET_NAME="image-transformer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All CTest" type="CTestRunConfiguration" factoryName="CTestRun" PROGRAM_PARAMS="--extra-verbose" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$CMakeCurrentLocalGenerationDir$" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="$CTestCurrentExecutableName$" EXPLICIT_BUILD_TARGET_NAME="all" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.image-transformer" />
+      <item itemvalue="CMake Application.check" />
+      <item itemvalue="CMake Application.image-matcher" />
+      <item itemvalue="CTest Application.All CTest" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5c5d35d-5750-4958-bc45-47557b97069c" name="Changes" comment="" />
+      <created>1668874899233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668874899233</updated>
+      <workItem from="1668874901696" duration="5173000" />
+      <workItem from="1669036296059" duration="2186000" />
+      <workItem from="1669469677799" duration="2156000" />
+      <workItem from="1669477038012" duration="378000" />
+      <workItem from="1669477595170" duration="391000" />
+      <workItem from="1669482755680" duration="1724000" />
+      <workItem from="1671887746679" duration="5671000" />
+      <workItem from="1672314624871" duration="1364000" />
+      <workItem from="1672317041624" duration="2000" />
+    </task>
+    <task id="LOCAL-00001" summary="Small fix">
+      <created>1671889077183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671889077183</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Small fix">
+      <created>1671889221662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671889221662</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Small fix">
+      <created>1671889342025</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671889342025</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Small fix">
+      <created>1671889437628</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671889437628</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Small fix">
+      <created>1671889520981</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671889520981</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create start_app">
+      <created>1671891187380</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671891187380</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Create start_app">
+      <created>1671891278363</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671891278363</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Create start_app">
+      <created>1671891345333</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671891345333</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Create start_app">
+      <created>1671891421437</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671891421437</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Create start_app">
+      <created>1671891502360</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671891502360</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Start fix">
+      <created>1671891716065</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671891716065</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Review End">
+      <created>1672315805597</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1672315805597</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Review End">
+      <created>1672315903516</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1672315903516</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Small fix" />
+    <MESSAGE value="Create start_app" />
+    <MESSAGE value="Start fix" />
+    <MESSAGE value="Review End" />
+    <option name="LAST_COMMIT_MESSAGE" value="Review End" />
+  </component>
+</project>
